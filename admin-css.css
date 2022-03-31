@@ -1,0 +1,137 @@
+.main-pge {
+    width: 1500px;
+    height: 1640px;
+    background-color: aqua;
+    position: relative;
+    left: 11px;
+}
+
+.left {
+    width: 200px;
+    height: 1600px;
+    background-color: rgb(5, 114, 133);
+    float: left;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    bottom: 20px;
+}
+
+.right {
+    position: relative;
+    left: 220px;
+    top: 20px;
+    bottom: 20px;
+    background-color: cornsilk;
+    width: 1260px;
+    height: 1600px;
+}
+
+.admin-logout-0 {
+    padding: 5px 10px 14px 15px;
+    height: 50px;
+    background-color: transparent;
+}
+
+.admin-logout-0:hover {
+    background-color: darkgray;
+    color: rgb(2, 0, 139);
+}
+
+.admin-logout-1:hover {
+    background-color: darkgray;
+    color: rgb(2, 0, 139);
+}
+
+.admin-logout-2:hover {
+    background-color: darkgray;
+    color: rgb(2, 0, 139);
+}
+
+.admin-logout-3:hover {
+    background-color: darkgray;
+    color: rgb(2, 0, 139);
+}
+
+.admin-logout-4:hover {
+    background-color: darkgray;
+    color: rgb(2, 0, 139);
+}
+
+.admin-logout-1 {
+    padding: 5px 10px 14px 30px;
+    height: 50px;
+    background-color: transparent;
+    position: relative;
+    top: 100;
+   
+}
+
+.admin-logout-2 {
+    padding: 5px 10px 14px 30px;
+    height: 50px;
+    background-color: transparent;
+    position: relative;
+    top: 150;
+   
+}
+
+.admin-logout-3 {
+    padding: 5px 10px 14px 30px;
+    height: 50px;
+    background-color: transparent;
+    position: relative;
+    top: 200;
+  
+}
+
+.admin-logout-4 {
+    padding: 5px 10px 14px 30px;
+    height: 50px;
+    background-color: transparent;
+    position: relative;
+    top: 250;
+  
+}
+
+.admin-logout-0 a {
+    color: rgb(185, 197, 20);
+}
+.admin-logout-1 a {
+    color: rgb(185, 197, 20);
+}
+.admin-logout-2 a {
+    color: rgb(185, 197, 20);
+}
+.admin-logout-3 a {
+    color: rgb(185, 197, 20);
+}
+.admin-logout-4 a {
+    color: rgb(185, 197, 20);
+}
+
+input {
+    width: 250px;
+    height: 30px;
+}
+button{
+    width: 250px;
+    height: 30px;
+}
+
+.add-prod{
+    display: none;
+}
+.show-prod{
+    display: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(185, 197, 20);
+}
+.deletess{
+   display: none;
+}
+.contact{
+    display: none;
+ }
